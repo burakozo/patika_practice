@@ -32,7 +32,15 @@ sum = (x + y + z)
 Result = (sum) % (3)
 print(Result) """
 
-x, y, z, = 3, 5, 8
+"""x, y, z, = 3, 5, 8
 
 result = (y) ** (x)
 print(result)
+"""
+x= 3
+y= 5
+
+result = (y) ** (x)
+print(result)
+ 
+
